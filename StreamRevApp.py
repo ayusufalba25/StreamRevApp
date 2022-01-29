@@ -9,7 +9,7 @@ from sklearn.ensemble import RandomForestRegressor
 st.write(
     """
     # Predict Streamer Revenue Based on PaidStarPerWatchedHour
-    The model used is [Random Forest Regressor](https://github.com/ayusufalba25/Poverty-in-JawaBarat).
+    The model used is [Random Forest Regressor](https://github.com/ayusufalba25/StreamersFeatures).
     """
 )
 
